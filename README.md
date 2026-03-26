@@ -2,8 +2,7 @@
 
 AI-powered credit risk assessment application using Machine Learning and Generative AI.
 
-LINK
-https://credit-risk-predictor-6pjltasb7bbpcoegivjinp.streamlit.app/
+
 
 ## 📊 Features
 - Real-time credit risk prediction
