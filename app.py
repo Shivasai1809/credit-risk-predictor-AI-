@@ -715,7 +715,8 @@ st.markdown("""
         <a href='#' class='footer-link'>🔒 Privacy Policy</a>
     </div>
     <p style='color: #94a3b8; font-size: 0.9rem; margin-top: 1.5rem;'>
-        © 2024 CreditAI™ | Built with ❤️ using Streamlit | Last Updated: {datetime.now().strftime('%B %d, %Y')}
+        © 2024 CreditAI™ | Built with ❤️ using Streamlit | Last Updated: """ + datetime.now().strftime('%B %d, %Y') + """
     </p>
 </div>
-""".format(datetime=datetime), unsafe_allow_html=True)
+""", unsafe_allow_html=True)
+ 
