@@ -704,7 +704,7 @@ with tab3:
  
 st.markdown("""
 <div class='corporate-footer'>
-    <div class='footer-brand'>CreditAI™ Enterprise Platform</div>
+    <div class='footer-brand'>RiskAI™ Pro ⭐ RECOMMENDED</div>
     <p style='color: #64748b; font-size: 1rem; margin: 0.5rem 0;'>
         Powered by Advanced Machine Learning & AI | Model Accuracy: 89.7% | Production Ready
     </p>
@@ -715,7 +715,7 @@ st.markdown("""
         <a href='#' class='footer-link'>🔒 Privacy Policy</a>
     </div>
     <p style='color: #94a3b8; font-size: 0.9rem; margin-top: 1.5rem;'>
-        © 2024 CreditAI™ | Built with ❤️ using Streamlit | Last Updated: """ + datetime.now().strftime('%B %d, %Y') + """
+        © 2026 CreditAI™ | Built with using Streamlit | Last Updated: """ + datetime.now().strftime('%B %d, %Y') + """
     </p>
 </div>
 """, unsafe_allow_html=True)
