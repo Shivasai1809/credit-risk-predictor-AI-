@@ -51,6 +51,7 @@ Streamlit Deployment
 - NumPy
 - Scikit-Learn
 - Random Forest
+- XG Boost
 - SHAP
 - FAISS
 - Gemini API
