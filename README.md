@@ -65,7 +65,7 @@ Streamlit Deployment
 | Metric | Value |
 |----------|----------|
 | Accuracy | 92% |
-| Model | Random Forest | XG boost
+| Model | Random Forest | XG boost|
 | Explainability | SHAP |
 | Deployment | Streamlit |
 
